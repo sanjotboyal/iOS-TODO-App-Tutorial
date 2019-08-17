@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ToDoApp
 //
-//  Created by Harrison Hart on 2019-08-14.
+//  Created by Sanjot Boyal on 2019-08-14.
 //  Copyright © 2019 Aqoon. All rights reserved.
 //
 
